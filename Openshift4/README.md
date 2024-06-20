@@ -2,7 +2,12 @@
 
 JFrog Unified Platform on Openshift official support is for the operator deployment only through Openshift's Operatorhub.
 
-Openshift OperatorHub will contain the latest official supported version. We strive to always release every minor version to Openshift's Operatorhub.
+## 2024 Update
+
+JFrog now provides full support for OpenShift Platform by using [JFrog Helm Charts](https://github.com/jfrog/charts/tree/master/stable). 
+Using Helm Charts is the recommended method for new deployments on the OpenShift Platforms.
+
+For more information, please visit the [JFrog Installation and Setup Documentation](https://jfrog.com/help/r/jfrog-installation-setup-documentation/ha-installation-on-openshift-using-artifactory-chart).
 
 ## Repo Layout
 
